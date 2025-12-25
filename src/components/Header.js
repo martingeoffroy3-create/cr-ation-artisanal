@@ -7,7 +7,7 @@ function Header() {
     <div className="header-bg">
       <div className="header">
         <p className="header-title">Créations Artisanales</p>
-        <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.facebook.com/share/1EfPoFrBXV/" target="_blank" rel="noopener noreferrer">
           <img src={logo_facebook} alt="Logo Facebook" className="header-logo" />
         </a>
       </div>

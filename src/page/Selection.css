@@ -42,3 +42,11 @@
   color: #333;
   margin: 0;
 }
+
+.selection-intro {
+  font-family: 'Lily Script One', cursive; /* ta police Google Fonts */
+  font-size: 2rem; /* taille du texte */
+  text-align: center; /* centré */
+  margin-bottom: 20px; /* espace sous le texte */
+  color: #333; /* couleur du texte */
+}
