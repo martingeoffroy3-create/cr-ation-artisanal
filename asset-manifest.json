@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cr-ation-artisanal/static/css/main.e6112160.css",
-    "main.js": "/cr-ation-artisanal/static/js/main.9d1d5a88.js",
+    "main.css": "/cr-ation-artisanal/static/css/main.42b7df8b.css",
+    "main.js": "/cr-ation-artisanal/static/js/main.d9611e06.js",
     "static/media/gateau-patate.jpg": "/cr-ation-artisanal/static/media/gateau-patate.429d96d2b35537004670.jpg",
     "static/media/cookie.JPG": "/cr-ation-artisanal/static/media/cookie.81671ad6ad57d3de53a1.JPG",
     "static/media/box-biscuit1.JPG": "/cr-ation-artisanal/static/media/box-biscuit1.14b1ed360abdcb1eaa0c.JPG",
@@ -14,11 +14,11 @@
     "static/media/coeur.JPG": "/cr-ation-artisanal/static/media/coeur.0f162cff43de13ac2f2c.JPG",
     "static/media/box-biscuit2.JPG": "/cr-ation-artisanal/static/media/box-biscuit2.bb0720c9fc3e657cf626.JPG",
     "index.html": "/cr-ation-artisanal/index.html",
-    "main.e6112160.css.map": "/cr-ation-artisanal/static/css/main.e6112160.css.map",
-    "main.9d1d5a88.js.map": "/cr-ation-artisanal/static/js/main.9d1d5a88.js.map"
+    "main.42b7df8b.css.map": "/cr-ation-artisanal/static/css/main.42b7df8b.css.map",
+    "main.d9611e06.js.map": "/cr-ation-artisanal/static/js/main.d9611e06.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6112160.css",
-    "static/js/main.9d1d5a88.js"
+    "static/css/main.42b7df8b.css",
+    "static/js/main.d9611e06.js"
   ]
 }
