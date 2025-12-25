@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cr-ation-artisanal/static/css/main.6bbb12da.css",
+    "main.js": "/cr-ation-artisanal/static/js/main.1fb24e64.js",
+    "static/media/gateau-patate.jpg": "/cr-ation-artisanal/static/media/gateau-patate.429d96d2b35537004670.jpg",
+    "static/media/gateauTourbillon.jpg": "/cr-ation-artisanal/static/media/gateauTourbillon.38a8950711ff4a566388.jpg",
+    "static/media/gateau-fraise-tarte.jpg": "/cr-ation-artisanal/static/media/gateau-fraise-tarte.42ed9bf0af8e326a2ff4.jpg",
+    "static/media/cake.jpg": "/cr-ation-artisanal/static/media/cake.746a94d3d424b0c12146.jpg",
+    "static/media/pate-creole.jpg": "/cr-ation-artisanal/static/media/pate-creole.a798ca01ac1660bb198b.jpg",
+    "index.html": "/cr-ation-artisanal/index.html",
+    "main.6bbb12da.css.map": "/cr-ation-artisanal/static/css/main.6bbb12da.css.map",
+    "main.1fb24e64.js.map": "/cr-ation-artisanal/static/js/main.1fb24e64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bbb12da.css",
+    "static/js/main.1fb24e64.js"
+  ]
+}
