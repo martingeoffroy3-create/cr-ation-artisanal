@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/cr-ation-artisanal/static/css/main.6bbb12da.css",
-    "main.js": "/cr-ation-artisanal/static/js/main.1fb24e64.js",
+    "main.css": "/cr-ation-artisanal/static/css/main.e6112160.css",
+    "main.js": "/cr-ation-artisanal/static/js/main.9d1d5a88.js",
     "static/media/gateau-patate.jpg": "/cr-ation-artisanal/static/media/gateau-patate.429d96d2b35537004670.jpg",
+    "static/media/cookie.JPG": "/cr-ation-artisanal/static/media/cookie.81671ad6ad57d3de53a1.JPG",
+    "static/media/box-biscuit1.JPG": "/cr-ation-artisanal/static/media/box-biscuit1.14b1ed360abdcb1eaa0c.JPG",
+    "static/media/brownie.JPG": "/cr-ation-artisanal/static/media/brownie.d6e6ff4fc38f25c0927b.JPG",
+    "static/media/biscuit.JPG": "/cr-ation-artisanal/static/media/biscuit.ce3663a1a27744e96e4f.JPG",
     "static/media/gateauTourbillon.jpg": "/cr-ation-artisanal/static/media/gateauTourbillon.38a8950711ff4a566388.jpg",
     "static/media/gateau-fraise-tarte.jpg": "/cr-ation-artisanal/static/media/gateau-fraise-tarte.42ed9bf0af8e326a2ff4.jpg",
     "static/media/cake.jpg": "/cr-ation-artisanal/static/media/cake.746a94d3d424b0c12146.jpg",
     "static/media/pate-creole.jpg": "/cr-ation-artisanal/static/media/pate-creole.a798ca01ac1660bb198b.jpg",
+    "static/media/coeur.JPG": "/cr-ation-artisanal/static/media/coeur.0f162cff43de13ac2f2c.JPG",
+    "static/media/box-biscuit2.JPG": "/cr-ation-artisanal/static/media/box-biscuit2.bb0720c9fc3e657cf626.JPG",
     "index.html": "/cr-ation-artisanal/index.html",
-    "main.6bbb12da.css.map": "/cr-ation-artisanal/static/css/main.6bbb12da.css.map",
-    "main.1fb24e64.js.map": "/cr-ation-artisanal/static/js/main.1fb24e64.js.map"
+    "main.e6112160.css.map": "/cr-ation-artisanal/static/css/main.e6112160.css.map",
+    "main.9d1d5a88.js.map": "/cr-ation-artisanal/static/js/main.9d1d5a88.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bbb12da.css",
-    "static/js/main.1fb24e64.js"
+    "static/css/main.e6112160.css",
+    "static/js/main.9d1d5a88.js"
   ]
 }
